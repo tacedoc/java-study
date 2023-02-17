@@ -8,6 +8,6 @@ package com.sc.test.git.branch;
  */
 public class Test5 {
     public static void main(String[] args) {
-        System.out.println("模拟已修复master分支bug");
+        System.out.println("模拟已修复master分支bug 2");
     }
 }
